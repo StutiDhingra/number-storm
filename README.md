@@ -17,9 +17,9 @@
 
 ## 📷 Screenshots
 
-> ![Main Menu](screenshots/menu.png)
-> ![Game Grid](screenshots/game.png)
-> ![About Page](screenshots/about.png)
+> ![Main Menu](home.png)
+> ![Game Grid](game.png)
+> ![About Page](about.png)
 
 ---
 
